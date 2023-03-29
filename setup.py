@@ -47,7 +47,7 @@ setup(
                       'torchmetrics==0.5.0',
                       'numpy==1.20.3',
                       'gdown==4.6.0',
-                      'spacy===3.2.3',
+                      'spacy==3.2.3',
                       'sentencepiece',
                       'radgraph==0.0.5',
                       'f1chexbert==0.0.1',
